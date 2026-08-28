@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0063-unique-paths-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
+| [0136-single-number](https://github.com/harshithav-22/leetcode_22/tree/master/0136-single-number) |
 ## Matrix
 |  |
 | ------- |
@@ -40,4 +41,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/harshithav-22/leetcode_22/tree/master/0062-unique-paths) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/harshithav-22/leetcode_22/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
