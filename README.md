@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/1143-longest-common-subsequence) |
@@ -22,4 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/1143-longest-common-subsequence) |
+## Array
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
+## Matrix
+|  |
+| ------- |
+| [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
