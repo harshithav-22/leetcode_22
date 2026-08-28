@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
@@ -26,9 +27,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
