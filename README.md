@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/harshithav-22/leetcode_22/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/harshithav-22/leetcode_22/tree/master/0020-valid-parentheses) |
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/harshithav-22/leetcode_22/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/harshithav-22/leetcode_22/tree/master/0042-trapping-rain-water) |
 ## Monotonic Stack
 |  |
@@ -157,4 +159,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0206-reverse-linked-list](https://github.com/harshithav-22/leetcode_22/tree/master/0206-reverse-linked-list) |
 | [2326-spiral-matrix-iv](https://github.com/harshithav-22/leetcode_22/tree/master/2326-spiral-matrix-iv) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/harshithav-22/leetcode_22/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
