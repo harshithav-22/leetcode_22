@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harshithav-22/leetcode_22/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harshithav-22/leetcode_22/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harshithav-22/leetcode_22/tree/master/0136-single-number) |
+| [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 ## Matrix
 |  |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0367-valid-perfect-square](https://github.com/harshithav-22/leetcode_22/tree/master/0367-valid-perfect-square) |
 ## Recursion
 |  |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 ## Heap (Priority Queue)
 |  |
@@ -115,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
