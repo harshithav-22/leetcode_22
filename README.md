@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/harshithav-22/leetcode_22/tree/master/0009-palindrome-number) |
 | [0062-unique-paths](https://github.com/harshithav-22/leetcode_22/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/harshithav-22/leetcode_22/tree/master/0070-climbing-stairs) |
+| [0367-valid-perfect-square](https://github.com/harshithav-22/leetcode_22/tree/master/0367-valid-perfect-square) |
 ## String
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/harshithav-22/leetcode_22/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/harshithav-22/leetcode_22/tree/master/0078-subsets) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/harshithav-22/leetcode_22/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
