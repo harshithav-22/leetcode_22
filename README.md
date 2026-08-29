@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/harshithav-22/leetcode_22/tree/master/0009-palindrome-number) |
+| [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/harshithav-22/leetcode_22/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/harshithav-22/leetcode_22/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/harshithav-22/leetcode_22/tree/master/0070-climbing-stairs) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshithav-22/leetcode_22/tree/master/0258-add-digits) |
+## Hash Table
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
