@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/harshithav-22/leetcode_22/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
+| [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
 ## Matrix
 |  |
 | ------- |
@@ -143,4 +144,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshithav-22/leetcode_22/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
 <!---LeetCode Topics End-->
