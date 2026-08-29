@@ -54,11 +54,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 | [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
+| [2326-spiral-matrix-iv](https://github.com/harshithav-22/leetcode_22/tree/master/2326-spiral-matrix-iv) |
 ## Matrix
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
+| [2326-spiral-matrix-iv](https://github.com/harshithav-22/leetcode_22/tree/master/2326-spiral-matrix-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/harshithav-22/leetcode_22/tree/master/0258-add-digits) |
+| [2326-spiral-matrix-iv](https://github.com/harshithav-22/leetcode_22/tree/master/2326-spiral-matrix-iv) |
 ## Number Theory
 |  |
 | ------- |
@@ -148,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
+## Linked List
+|  |
+| ------- |
+| [2326-spiral-matrix-iv](https://github.com/harshithav-22/leetcode_22/tree/master/2326-spiral-matrix-iv) |
 <!---LeetCode Topics End-->
