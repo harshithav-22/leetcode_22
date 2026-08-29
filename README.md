@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
+| [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/1143-longest-common-subsequence) |
 ## Dynamic Programming
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
+| [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
 ## Queue
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
+| [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -128,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/harshithav-22/leetcode_22/tree/master/0042-trapping-rain-water) |
+| [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
 ## Stack
 |  |
 | ------- |
