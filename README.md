@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshithav-22/leetcode_22/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshithav-22/leetcode_22/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
 ## Queue
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/harshithav-22/leetcode_22/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
