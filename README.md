@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/harshithav-22/leetcode_22/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harshithav-22/leetcode_22/tree/master/0136-single-number) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 | [0503-next-greater-element-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0503-next-greater-element-ii) |
 | [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 ## Monotonic Queue
 |  |
@@ -174,4 +176,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/harshithav-22/leetcode_22/tree/master/0020-valid-parentheses) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
+## Sorting
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
