@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/harshithav-22/leetcode_22/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
+| [0198-house-robber](https://github.com/harshithav-22/leetcode_22/tree/master/0198-house-robber) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/1143-longest-common-subsequence) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/harshithav-22/leetcode_22/tree/master/0066-plus-one) |
 | [0078-subsets](https://github.com/harshithav-22/leetcode_22/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/harshithav-22/leetcode_22/tree/master/0136-single-number) |
+| [0198-house-robber](https://github.com/harshithav-22/leetcode_22/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/harshithav-22/leetcode_22/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
