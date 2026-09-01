@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshithav-22/leetcode_22/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/harshithav-22/leetcode_22/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harshithav-22/leetcode_22/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/harshithav-22/leetcode_22/tree/master/0046-permutations) |
 | [0063-unique-paths-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0063-unique-paths-ii) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/harshithav-22/leetcode_22/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/harshithav-22/leetcode_22/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/harshithav-22/leetcode_22/tree/master/0042-trapping-rain-water) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
 ## Stack
