@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/harshithav-22/leetcode_22/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/harshithav-22/leetcode_22/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/harshithav-22/leetcode_22/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0058-length-of-last-word](https://github.com/harshithav-22/leetcode_22/tree/master/0058-length-of-last-word) |
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
