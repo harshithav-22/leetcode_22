@@ -1,4 +1,3 @@
-class Solution(object):
-    def uniformArray(self, nums1):
+class Solution:
+    def uniformArray(self, nums1: list[int]) -> bool:
         return True
-        
