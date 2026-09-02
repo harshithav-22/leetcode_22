@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/harshithav-22/leetcode_22/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/harshithav-22/leetcode_22/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/harshithav-22/leetcode_22/tree/master/0367-valid-perfect-square) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harshithav-22/leetcode_22/tree/master/3875-construct-uniform-parity-array-i) |
 ## String
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/harshithav-22/leetcode_22/tree/master/0682-baseball-game) |
 | [2326-spiral-matrix-iv](https://github.com/harshithav-22/leetcode_22/tree/master/2326-spiral-matrix-iv) |
+| [3875-construct-uniform-parity-array-i](https://github.com/harshithav-22/leetcode_22/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
 | ------- |
