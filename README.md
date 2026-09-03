@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/harshithav-22/leetcode_22/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0213-house-robber-ii) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
+| [0518-coin-change-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
 | [1143-longest-common-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/1143-longest-common-subsequence) |
 ## Longest Common Subsequence
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/harshithav-22/leetcode_22/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/harshithav-22/leetcode_22/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0503-next-greater-element-ii) |
+| [0518-coin-change-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0518-coin-change-ii) |
 | [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
 | [0682-baseball-game](https://github.com/harshithav-22/leetcode_22/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/harshithav-22/leetcode_22/tree/master/0733-flood-fill) |
@@ -341,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/harshithav-22/leetcode_22/tree/master/0207-course-schedule) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0518-coin-change-ii) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0518-coin-change-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
