@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/harshithav-22/leetcode_22/tree/master/0091-decode-ways) |
 | [0198-house-robber](https://github.com/harshithav-22/leetcode_22/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0213-house-robber-ii) |
+| [0410-split-array-largest-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0410-split-array-largest-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/harshithav-22/leetcode_22/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0518-coin-change-ii) |
 | [0583-delete-operation-for-two-strings](https://github.com/harshithav-22/leetcode_22/tree/master/0583-delete-operation-for-two-strings) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/harshithav-22/leetcode_22/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/harshithav-22/leetcode_22/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
+| [0410-split-array-largest-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0410-split-array-largest-sum) |
 | [0463-island-perimeter](https://github.com/harshithav-22/leetcode_22/tree/master/0463-island-perimeter) |
 | [0496-next-greater-element-i](https://github.com/harshithav-22/leetcode_22/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/harshithav-22/leetcode_22/tree/master/0503-next-greater-element-ii) |
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/harshithav-22/leetcode_22/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/harshithav-22/leetcode_22/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0410-split-array-largest-sum) |
 ## Recursion
 |  |
 | ------- |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/harshithav-22/leetcode_22/tree/master/0238-product-of-array-except-self) |
+| [0410-split-array-largest-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0410-split-array-largest-sum) |
 ## Two Pointers
 |  |
 | ------- |
@@ -212,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/harshithav-22/leetcode_22/tree/master/0410-split-array-largest-sum) |
 | [0605-can-place-flowers](https://github.com/harshithav-22/leetcode_22/tree/master/0605-can-place-flowers) |
 ## Linked List
 |  |
