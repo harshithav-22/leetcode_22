@@ -1,12 +1,12 @@
 class Solution {
     public boolean isPossibleToSplit(int[] nums) {
 
-        HashMap<Integer, Integer> map = new HashMap<>();
+        int[] freq = new int[101];
 
         for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+            freq[num]++;
 
-            if (map.get(num) > 2) {
+            if (freq[num] > 2) {
                 return false;
             }
         }
