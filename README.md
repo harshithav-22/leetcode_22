@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/harshithav-22/leetcode_22/tree/master/0682-baseball-game) |
 | [0733-flood-fill](https://github.com/harshithav-22/leetcode_22/tree/master/0733-flood-fill) |
 | [2326-spiral-matrix-iv](https://github.com/harshithav-22/leetcode_22/tree/master/2326-spiral-matrix-iv) |
+| [3046-split-the-array](https://github.com/harshithav-22/leetcode_22/tree/master/3046-split-the-array) |
 | [3875-construct-uniform-parity-array-i](https://github.com/harshithav-22/leetcode_22/tree/master/3875-construct-uniform-parity-array-i) |
 ## Matrix
 |  |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/harshithav-22/leetcode_22/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/harshithav-22/leetcode_22/tree/master/0567-permutation-in-string) |
+| [3046-split-the-array](https://github.com/harshithav-22/leetcode_22/tree/master/3046-split-the-array) |
 ## Queue
 |  |
 | ------- |
@@ -268,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/harshithav-22/leetcode_22/tree/master/0451-sort-characters-by-frequency) |
+| [3046-split-the-array](https://github.com/harshithav-22/leetcode_22/tree/master/3046-split-the-array) |
 ## Tree
 |  |
 | ------- |
